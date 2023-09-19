@@ -8,8 +8,8 @@ To execute the code from command line on Mac or Linux:<br>
     2. python data_transformation_task.py<br>
 
 To execute the code from command line on Windows:<br>
-    ## 1. cd %UserProfile%\aviva_test\src\aviva<br>
-    ## 2. python data_transformation_task.py<br>
+    1. cd %UserProfile%\aviva_test\src\aviva<br>
+    2. python data_transformation_task.py<br>
 
 
 Unit tests are located under aviva_task/src/test<br>
