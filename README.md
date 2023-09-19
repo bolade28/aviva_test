@@ -4,12 +4,12 @@ Technical test assessment
 Source code is located in aviva_assessment/src/aviva
 
 To execute the code from command line on Mac or Linux:
-    1. cd $HOME/aviva_assessment/src/aviva
-    2. python data_transformation_task.py
+    ## 1. cd $HOME/aviva_assessment/src/aviva
+    ## 2. python data_transformation_task.py
 
 To execute the code from command line on Windows:
-    1. cd %UserProfile%\aviva_assessment\src\aviva
-    2. python data_transformation_task.py
+    ## 1. cd %UserProfile%\aviva_assessment\src\aviva
+    ## 2. python data_transformation_task.py
 
 
 Unit tests are located under aviva_task/src/test
